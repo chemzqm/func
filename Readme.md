@@ -12,9 +12,9 @@
 
 ### .once(fn)
 
-### .debounce(fn, wait, [ immediate || false])
-
 ### .throttle(fn, wait, [ max || 1])
+
+### .debounce(fn, wait, [ immediate || false])
 
 ## License
 

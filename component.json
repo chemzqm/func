@@ -1,6 +1,6 @@
 {
   "name": "func",
-  "description": "",
+  "description": "simple function utilities",
   "version": "0.0.3",
   "keywords": [],
   "dependencies": {},

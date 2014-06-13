@@ -80,7 +80,7 @@ exports.throttle = function (func, wait, max) {
  * @api public
  */
 
-module.exports = function debounce(func, threshold, execAsap){
+exports.debounce = function (func, threshold, execAsap){
   var timeout;
 
   return function debounced(){
